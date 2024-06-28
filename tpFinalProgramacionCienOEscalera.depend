@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1719547215 source:c:\users\genti\escritorio\tpfinalprogramacion\tpfinalprogramacioncienoescalera\funciones.cpp
+	"Juego.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+
+1719547182 c:\users\genti\escritorio\tpfinalprogramacion\tpfinalprogramacioncienoescalera\juego.h
+	<string>
+
+1719547154 c:\users\genti\escritorio\tpfinalprogramacion\tpfinalprogramacioncienoescalera\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1719547246 source:c:\users\genti\escritorio\tpfinalprogramacion\tpfinalprogramacioncienoescalera\main.cpp
+	<iostream>
+	"Juego.h"
+	"rlutil.h"
+
